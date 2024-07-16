@@ -3,4 +3,4 @@ sou programador front-end
 atualmente estou aprendendo e criando projetos com:
 html
 css
-e cmeçando a estudar java scrip e react
+e começando a estudar java scrip e react
